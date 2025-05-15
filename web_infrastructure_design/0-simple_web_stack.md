@@ -2,7 +2,7 @@
 
 Here is a simple web stack of an application
 
-![Simple web stack](digrams/simple_web_stack.png)
+![Simple web stack](Diagrams/simple_web_stack.png)
 ---
 
 ## 🖥️ What is a Server?
